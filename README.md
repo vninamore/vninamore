@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vanessa Nina More
+# Vanessa Jazmin Nina More
 
 ### Geographic Engineer · GIS & Data Analyst
 
